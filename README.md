@@ -1,4 +1,4 @@
-[![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F4.bp.blogspot.com%2F-6vGvy4vCcvE%2FXdcwnaf7XzI%2FAAAAAAAANZM%2FIo2mm8SXjmUVCo60byOn-XpLUpn54nizACLcBGAsYHQ%2Fs1600%2Fimage1.gif&f=1&nofb=1&ipt=c003006ff12e91502ff4aea3d2b104264de74a1a2b90a503d02e882d2883d07b&ipo=images)]
+![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F4.bp.blogspot.com%2F-6vGvy4vCcvE%2FXdcwnaf7XzI%2FAAAAAAAANZM%2FIo2mm8SXjmUVCo60byOn-XpLUpn54nizACLcBGAsYHQ%2Fs1600%2Fimage1.gif&f=1&nofb=1&ipt=c003006ff12e91502ff4aea3d2b104264de74a1a2b90a503d02e882d2883d07b&ipo=images)
 
 <h1 align="center">Hi ✌️ I am Harsh Verma</h1>
 <h3 align="center">A Passionate Full Stack Android developer from India</h3>
