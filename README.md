@@ -1,169 +1,238 @@
-<!-- Header -->
+<!-- HEADER BANNER -->
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58a6ff&height=200&section=header&text=Harsh%20Verma&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cloud%20%7C%20Backend&descAlignY=58&descSize=18&descColor=8b949e&animation=fadeIn" />
+</div>
 
-```
-██╗  ██╗ █████╗ ██████╗ ███████╗██╗  ██╗    ██╗   ██╗███████╗██████╗ ███╗   ███╗ █████╗
-██║  ██║██╔══██╗██╔══██╗██╔════╝██║  ██║    ██║   ██║██╔════╝██╔══██╗████╗ ████║██╔══██╗
-███████║███████║██████╔╝███████╗███████║    ██║   ██║█████╗  ██████╔╝██╔████╔██║███████║
-██╔══██║██╔══██║██╔══██╗╚════██║██╔══██║    ╚██╗ ██╔╝██╔══╝  ██╔══██╗██║╚██╔╝██║██╔══██║
-██║  ██║██║  ██║██║  ██║███████║██║  ██║     ╚████╔╝ ███████╗██║  ██║██║ ╚═╝ ██║██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝      ╚═══╝  ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Cloud+%2B+Backend+Enthusiast+%E2%98%81%EF%B8%8F;Open+to+Work+%E2%80%94+Graduating+2026+%F0%9F%8E%93;Building+ConnectSphere+%F0%9F%94%A8;Java+%7C+Spring+Boot+%7C+React+%7C+Docker" alt="Typing SVG" />
+<!-- TYPING ANIMATION -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&height=45&lines=🚀+Full+Stack+%2B+Cloud+Developer;☁️+Spring+Boot+%7C+React+%7C+Docker+%7C+GCP;🔨+Building+ConnectSphere+—+Dev+Community+Platform;🎯+Open+to+Work+—+Graduating+2026;🏆+GCP+Study+Jams+Rank+%2349+Nationally;🚗+Hot+Wheels+Collector+%26+Trader" alt="Typing SVG" />
+</div>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-harsh--verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-verma-346495208)
-[![GitHub](https://img.shields.io/badge/GitHub-harshverma724-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshverma724)
-[![Email](https://img.shields.io/badge/Email-harshvermajpr1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshvermajpr1@gmail.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-harshvermajpr1-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/harshvermajpr1)
+<!-- SOCIAL BADGES -->
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=harshverma724&label=Profile+Views&color=58a6ff&style=for-the-badge" alt="profile views" />
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-verma-346495208)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshverma724)
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshvermajpr1@gmail.com)
+  [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/harshvermajpr1)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/harshverma724)
+
+  <img src="https://komarev.com/ghpvc/?username=harshverma724&label=Profile+Views&color=58a6ff&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/harshverma724?label=Followers&style=for-the-badge&color=3fb950&labelColor=161b22" />
 
 </div>
 
+<br/>
+
 ---
 
-## `$ whoami`
+## 🧑‍💻 `$ whoami`
+
+<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 ```json
 {
-  "name"              : "Harsh Verma",
-  "role"              : "Full Stack Developer · Cloud & Backend",
-  "university"        : "Poornima University, Jaipur",
-  "degree"            : "B.Tech CSE '26  |  CGPA: 7.2",
-  "internships"       : ["VertexPlus Technologies", "Wisflux Tech Labs"],
-  "currently_building": "ConnectSphere — Spring Boot 3 · PostgreSQL · Redis · Docker",
-  "side_quest"        : "The Diecast Network 🚗  (Hot Wheels collector & trader)",
-  "achievement"       : "Google Cloud Study Jams — Rank #49 🏆",
-  "location"          : "Jaipur, Rajasthan, India 📍",
-  "fun_fact"          : "Coffee → Code. No exceptions."
+  "name"     : "Harsh Verma",
+  "role"     : "Full Stack · Cloud · Backend",
+  "degree"   : "B.Tech CSE '26 @ Poornima University",
+  "cgpa"     : 7.2,
+  "location" : "Jaipur, Rajasthan, India 📍",
+  "internships": [
+    "VertexPlus Technologies",
+    "Wisflux Tech Labs"
+  ],
+  "building" : "ConnectSphere 🔨",
+  "stack"    : "Spring Boot · PostgreSQL · Redis · Docker",
+  "side_quest": "The Diecast Network 🚗",
+  "achievement": "GCP Study Jams — Rank #49 🏆",
+  "fun_fact" : "Coffee → Code. No exceptions. ☕"
 }
 ```
 
----
-
-## `$ cat currently.txt`
-
-> 🟢 **LIVE** — Building **[ConnectSphere](https://github.com/harshverma724)** — a backend-heavy developer community platform  
-> Stack: `Spring Boot 3` · `PostgreSQL` · `Redis` · `Docker` · `JWT Auth` · `WebSockets`
-
-> 📖 **Learning** — Java DSA (Striver's A2Z) · System Design · LLM API Integration
-
-> 🎯 **Targeting** — Canonical · Freshworks · Goldman Sachs · Deloitte · KPMG · Calix · Wipro
+<br clear="right"/>
 
 ---
 
-## `$ ls tech-stack/`
+## ⚡ `$ cat currently.txt`
 
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**Frameworks & Backend**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-**Data & DevOps**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Cloud & Tools**
-
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<table>
+  <tr>
+    <td>🟢 <b>Building</b></td>
+    <td><b>ConnectSphere</b> — Backend-heavy dev community platform<br/><code>Spring Boot 3</code> · <code>PostgreSQL</code> · <code>Redis</code> · <code>Docker</code> · <code>JWT</code> · <code>WebSockets</code></td>
+  </tr>
+  <tr>
+    <td>📖 <b>Learning</b></td>
+    <td>Java DSA (Striver's A2Z) · System Design · LLM API Integration</td>
+  </tr>
+  <tr>
+    <td>🎯 <b>Targeting</b></td>
+    <td>Canonical · Freshworks · Goldman Sachs · Deloitte · KPMG · Calix · Wipro</td>
+  </tr>
+  <tr>
+    <td>☕ <b>Fueled by</b></td>
+    <td>Coffee, curiosity & Hot Wheels 🚗</td>
+  </tr>
+</table>
 
 ---
 
-## `$ ls projects/`
-
-| Project | Stack | Status |
-|---|---|---|
-| 🔨 **[ConnectSphere](https://github.com/harshverma724)** | Spring Boot · PostgreSQL · Redis · Docker | 🟡 In Progress |
-| 🚗 **[The Diecast Network](https://github.com/harshverma724)** | React · Node.js · Firebase | 🟢 Live |
-| 🌐 **[Dreamatrix OPC Platform](https://dreamatrixprojectsopc.in)** | React · Firebase | 🟢 Live |
-| 🤖 **[AI Object Detection](https://github.com/harshverma724)** | Python · OpenCV · TensorFlow | ✅ Complete |
-| ⚛️ **[ReactPlay Hub](https://github.com/harshverma724)** | React.js | ✅ Complete |
-| 🏪 **[Account Manager](https://github.com/harshverma724)** | Java · MySQL | ✅ Complete |
-| 🎨 **[Personal Portfolio](https://github.com/harshverma724)** | HTML · CSS · JS | 🟢 Live |
-
----
-
-## `$ cat github-stats.sh`
+## 🛠️ `$ ls tech-stack/`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshverma724&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshverma724&layout=compact&theme=github_dark&hide_border=true"/>
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-</div>
+### Frameworks & Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-<div align="center">
+### Databases & DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=harshverma724&theme=github-dark-blue&hide_border=true&fire=FF6B00&ring=FF6B00&currStreakLabel=FF6B00)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-| 🔥 Total Contributions | ⚡ Current Streak | 🏆 Longest Streak |
-|:---:|:---:|:---:|
-| **1,368** | Check live ↑ | **111 days** |
-| Feb 23, 2021 – Present | — | Feb 22 – Jun 12, 2025 |
+### Cloud & Tools
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
 ---
 
-## `$ cat achievements.log`
-
-- 🏆 **Google Cloud Study Jams** — Rank **#49** nationally
-- 🥈 **Finalist** — Poornima Hackathon 2023
-- ☁️ **Google Gen AI Labs** attendee — SGT University, 2024
-- 🎓 **B.Tech CSE** — Graduating 2026, Poornima University
-
----
-
-## `$ ./contact.sh`
+## 🚀 `$ ls projects/`
 
 <div align="center">
 
-| Platform | Link |
+| # | Project | Stack | Status |
+|:---:|---|---|:---:|
+| 01 | 🔨 **[ConnectSphere](https://github.com/harshverma724)** | Spring Boot · PostgreSQL · Redis · Docker | 🟡 Building |
+| 02 | 🚗 **[The Diecast Network](https://github.com/harshverma724)** | React · Node.js · Firebase | 🟢 Live |
+| 03 | 🌐 **[Dreamatrix OPC](https://dreamatrixprojectsopc.in)** | React · Firebase | 🟢 Live |
+| 04 | 🤖 **[AI Object Detection](https://github.com/harshverma724)** | Python · OpenCV · TensorFlow | ✅ Done |
+| 05 | ⚛️ **[ReactPlay Hub](https://github.com/harshverma724)** | React.js | ✅ Done |
+| 06 | 🏪 **[Account Manager](https://github.com/harshverma724)** | Java · MySQL | ✅ Done |
+| 07 | 🎨 **[Portfolio](https://github.com/harshverma724)** | HTML · CSS · JS | 🟢 Live |
+
+</div>
+
+---
+
+## 📊 `$ cat github-stats.sh`
+
+<div align="center">
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshverma724&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshverma724&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=harshverma724&theme=github-dark-blue&hide_border=true&fire=FF6B00&ring=FF6B00&currStreakLabel=FF6B00&sideLabels=8b949e&dates=8b949e&background=0d1117" />
+</div>
+
+<br/>
+
+<div align="center">
+
+  | 🔥 Total Contributions | 🏆 Longest Streak | 📅 Active Since |
+  |:---:|:---:|:---:|
+  | **1,368** | **111 days** | **Feb 23, 2021** |
+  | Feb 2021 – Present | Feb 22 – Jun 12, 2025 | 4+ years on GitHub |
+
+</div>
+
+<br/>
+
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshverma724&bg_color=0d1117&color=58a6ff&line=3fb950&point=FF6B00&area=true&hide_border=true&area_color=1a3a1a" />
+</div>
+
+---
+
+## 🏆 `$ cat achievements.log`
+
+<div align="center">
+
+| 🏅 Achievement | 📌 Details |
 |---|---|
-| 📧 **Email** | harshvermajpr1@gmail.com |
-| 💼 **LinkedIn** | [harsh-verma-346495208](https://linkedin.com/in/harsh-verma-346495208) |
-| 🐙 **GitHub** | [harshverma724](https://github.com/harshverma724) |
-| 📸 **Instagram** | [@harshverma724](https://instagram.com/harshverma724) |
-| 🏆 **HackerRank** | [harshvermajpr1](https://www.hackerrank.com/harshvermajpr1) |
-| 💬 **Discord** | harshverma724 |
+| 🥇 **GCP Study Jams** | Rank **#49** Nationally |
+| 🥈 **Hackathon Finalist** | Poornima Hackathon 2023 |
+| ☁️ **Google Gen AI Labs** | Attendee — SGT University, 2024 |
+| 🎓 **B.Tech CSE** | Graduating 2026, Poornima University |
 
 </div>
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshverma724/harshverma724/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshverma724/harshverma724/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/harshverma724/harshverma724/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+<details>
+<summary>⚙️ Enable the Snake Animation — click to expand</summary>
+
+Create `.github/workflows/snake.yml` in your profile repo (`harshverma724/harshverma724`):
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then go to **Settings → Actions → General → Workflow permissions** → enable **Read and write permissions**. Run the workflow once manually and you're done!
+
+</details>
+
+---
+
+<!-- FOOTER WAVE -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=130&section=footer&text=Let's+Build+Something+Great&fontSize=20&fontColor=8b949e&fontAlignY=65&animation=fadeIn" />
+</div>
+
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║  "First, solve the problem. Then, write the code."       ║
-║                                          — John Johnson  ║
-╚══════════════════════════════════════════════════════════╝
-```
+**📍 Jaipur, Rajasthan · India** &nbsp;•&nbsp; **☕ Coffee → Code** &nbsp;•&nbsp; **🚗 Hot Wheels Collector**
 
-**📍 Jaipur, Rajasthan · India** &nbsp;|&nbsp; **☕ Fueled by Coffee** &nbsp;|&nbsp; **🚗 Hot Wheels Collector**
-
-*Open to full-time roles, internships & collabs — let's build something great.*
+*Open to full-time roles, internships & collabs — drop a message!*
 
 </div>
