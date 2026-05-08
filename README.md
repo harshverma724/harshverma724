@@ -1,56 +1,169 @@
-![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F4.bp.blogspot.com%2F-6vGvy4vCcvE%2FXdcwnaf7XzI%2FAAAAAAAANZM%2FIo2mm8SXjmUVCo60byOn-XpLUpn54nizACLcBGAsYHQ%2Fs1600%2Fimage1.gif&f=1&nofb=1&ipt=c003006ff12e91502ff4aea3d2b104264de74a1a2b90a503d02e882d2883d07b&ipo=images)
+<!-- Header -->
+<div align="center">
 
-<h1 align="center">Hi ✌️ I am Harsh Verma</h1>
-<h3 align="center">A Passionate Full Stack Software Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1292677%2Fscreenshots%2F6139167%2Favento.gif&f=1&nofb=1&ipt=8bf2733826a2b12834d693998cebc799724639a1cb2b48d53f669d61dbe51bfe&ipo=images">
+```
+██╗  ██╗ █████╗ ██████╗ ███████╗██╗  ██╗    ██╗   ██╗███████╗██████╗ ███╗   ███╗ █████╗
+██║  ██║██╔══██╗██╔══██╗██╔════╝██║  ██║    ██║   ██║██╔════╝██╔══██╗████╗ ████║██╔══██╗
+███████║███████║██████╔╝███████╗███████║    ██║   ██║█████╗  ██████╔╝██╔████╔██║███████║
+██╔══██║██╔══██║██╔══██╗╚════██║██╔══██║    ╚██╗ ██╔╝██╔══╝  ██╔══██╗██║╚██╔╝██║██╔══██║
+██║  ██║██║  ██║██║  ██║███████║██║  ██║     ╚████╔╝ ███████╗██║  ██║██║ ╚═╝ ██║██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝      ╚═══╝  ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
+```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshverma724&label=Profile%20views&color=0e75b6&style=flat" alt="harshverma724" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Cloud+%2B+Backend+Enthusiast+%E2%98%81%EF%B8%8F;Open+to+Work+%E2%80%94+Graduating+2026+%F0%9F%8E%93;Building+ConnectSphere+%F0%9F%94%A8;Java+%7C+Spring+Boot+%7C+React+%7C+Docker" alt="Typing SVG" />
 
-<p align="left"> <a href="https://twitter.com/harshverma724" target="blank"><img src="https://img.shields.io/twitter/follow/harshverma724?logo=twitter&style=for-the-badge" alt="harshverma724" /></a> </p>
+<br/>
 
-- 🎓 I'm a Computer Science and Engineering student (Class of 2026).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harsh--verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-verma-346495208)
+[![GitHub](https://img.shields.io/badge/GitHub-harshverma724-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshverma724)
+[![Email](https://img.shields.io/badge/Email-harshvermajpr1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshvermajpr1@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-harshvermajpr1-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/harshvermajpr1)
 
-- 💼 Previously a Software Developer Intern at **VertexPlus Technologies Ltd**.
+<img src="https://komarev.com/ghpvc/?username=harshverma724&label=Profile+Views&color=58a6ff&style=for-the-badge" alt="profile views" />
 
-- 🔭 I’m currently working on **Full-Stack Web Applications (Java, Python, React.js, Node.js)**.
+</div>
 
-- 🌱 I’m currently refining my skills in **Data Structures & Algorithms (LeetCode)** and **System Design**.
+---
 
-- 📝 I regularly write articles on [https://heyphilosophy.blogspot.com/](https://heyphilosophy.blogspot.com/)
+## `$ whoami`
 
-- 💬 Ask me about **Java, Python, Web Development, and DSA**.
+```json
+{
+  "name"              : "Harsh Verma",
+  "role"              : "Full Stack Developer · Cloud & Backend",
+  "university"        : "Poornima University, Jaipur",
+  "degree"            : "B.Tech CSE '26  |  CGPA: 7.2",
+  "internships"       : ["VertexPlus Technologies", "Wisflux Tech Labs"],
+  "currently_building": "ConnectSphere — Spring Boot 3 · PostgreSQL · Redis · Docker",
+  "side_quest"        : "The Diecast Network 🚗  (Hot Wheels collector & trader)",
+  "achievement"       : "Google Cloud Study Jams — Rank #49 🏆",
+  "location"          : "Jaipur, Rajasthan, India 📍",
+  "fun_fact"          : "Coffee → Code. No exceptions."
+}
+```
 
-- 📫 How to reach me: **harshvermajpr1@gmail.com**
+---
 
-- ⚡ Fun fact: **Coffee and diecast cars fuel my coding sessions.**
+## `$ cat currently.txt`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/harshverma724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshverma724" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/harsh-verma-346495208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshverma724" height="30" width="40" /></a>
-<a href="https://instagram.com/harshverma724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshverma724" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/harshvermajpr1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshvermajpr1" height="30" width="40" /></a>
-<a href="https://discord.gg/harshverma724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="harshverma724" height="30" width="40" /></a>
-</p>
+> 🟢 **LIVE** — Building **[ConnectSphere](https://github.com/harshverma724)** — a backend-heavy developer community platform  
+> Stack: `Spring Boot 3` · `PostgreSQL` · `Redis` · `Docker` · `JWT Auth` · `WebSockets`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-</p>
+> 📖 **Learning** — Java DSA (Striver's A2Z) · System Design · LLM API Integration
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshverma724&show_icons=true&locale=en&layout=compact" alt="harshverma724" /></p>
+> 🎯 **Targeting** — Canonical · Freshworks · Goldman Sachs · Deloitte · KPMG · Calix · Wipro
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=harshverma724&show_icons=true&locale=en" alt="harshverma724" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshverma724&" alt="harshverma724" /></p>
+## `$ ls tech-stack/`
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Frameworks & Backend**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+**Data & DevOps**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Cloud & Tools**
+
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## `$ ls projects/`
+
+| Project | Stack | Status |
+|---|---|---|
+| 🔨 **[ConnectSphere](https://github.com/harshverma724)** | Spring Boot · PostgreSQL · Redis · Docker | 🟡 In Progress |
+| 🚗 **[The Diecast Network](https://github.com/harshverma724)** | React · Node.js · Firebase | 🟢 Live |
+| 🌐 **[Dreamatrix OPC Platform](https://dreamatrixprojectsopc.in)** | React · Firebase | 🟢 Live |
+| 🤖 **[AI Object Detection](https://github.com/harshverma724)** | Python · OpenCV · TensorFlow | ✅ Complete |
+| ⚛️ **[ReactPlay Hub](https://github.com/harshverma724)** | React.js | ✅ Complete |
+| 🏪 **[Account Manager](https://github.com/harshverma724)** | Java · MySQL | ✅ Complete |
+| 🎨 **[Personal Portfolio](https://github.com/harshverma724)** | HTML · CSS · JS | 🟢 Live |
+
+---
+
+## `$ cat github-stats.sh`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshverma724&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshverma724&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=harshverma724&theme=github-dark-blue&hide_border=true&fire=FF6B00&ring=FF6B00&currStreakLabel=FF6B00)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+| 🔥 Total Contributions | ⚡ Current Streak | 🏆 Longest Streak |
+|:---:|:---:|:---:|
+| **1,368** | Check live ↑ | **111 days** |
+| Feb 23, 2021 – Present | — | Feb 22 – Jun 12, 2025 |
+
+</div>
+
+---
+
+## `$ cat achievements.log`
+
+- 🏆 **Google Cloud Study Jams** — Rank **#49** nationally
+- 🥈 **Finalist** — Poornima Hackathon 2023
+- ☁️ **Google Gen AI Labs** attendee — SGT University, 2024
+- 🎓 **B.Tech CSE** — Graduating 2026, Poornima University
+
+---
+
+## `$ ./contact.sh`
+
+<div align="center">
+
+| Platform | Link |
+|---|---|
+| 📧 **Email** | harshvermajpr1@gmail.com |
+| 💼 **LinkedIn** | [harsh-verma-346495208](https://linkedin.com/in/harsh-verma-346495208) |
+| 🐙 **GitHub** | [harshverma724](https://github.com/harshverma724) |
+| 📸 **Instagram** | [@harshverma724](https://instagram.com/harshverma724) |
+| 🏆 **HackerRank** | [harshvermajpr1](https://www.hackerrank.com/harshvermajpr1) |
+| 💬 **Discord** | harshverma724 |
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  "First, solve the problem. Then, write the code."       ║
+║                                          — John Johnson  ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+**📍 Jaipur, Rajasthan · India** &nbsp;|&nbsp; **☕ Fueled by Coffee** &nbsp;|&nbsp; **🚗 Hot Wheels Collector**
+
+*Open to full-time roles, internships & collabs — let's build something great.*
+
+</div>
